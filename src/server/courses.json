@@ -1,0 +1,55 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Javascript for Beginners",
+      "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+      "hours": 3,
+      "ratings": 5
+    },
+    {
+      "id": 2,
+      "name": "AJAX Development",
+      "description": "Create Elegant, Powerful Web and Mobile Applications Using AJAX.",
+      "hours": 3,
+      "ratings": 4
+    },
+    {
+      "id": 3,
+      "name": "1 Hour HTML",
+      "description": "Learn how to code in HTML in 1 hour. This class is set up for complete beginners!",
+      "hours": 1,
+      "ratings": 3
+    },
+    {
+      "id": 4,
+      "name": "Tailwind CSS From Scratch",
+      "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+      "hours": 3,
+      "ratings": 2
+    },
+    {
+      "id": 5,
+      "name": "Angular - The Complete Guide (2022 Edition)",
+      "description": "Master Angular 13 and build awesome, reactive web apps with the successor of Angular",
+      "hours": 3,
+      "ratings": 3.5
+    }
+  ],
+  "enquiries": [
+    {
+      "name": "mangesh",
+      "email": "abc@gmail.com",
+      "course_id": "1",
+      "id": 9
+    },
+    {
+      "name": "mangeshkalwale",
+      "email": "abc@gmail.com",
+      "experience": "",
+      "course_id": "1",
+      "course_name": "",
+      "id": 10
+    }
+  ]
+}
